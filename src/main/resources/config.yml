@@ -1,0 +1,4 @@
+revivetimer: 60 #in seconds
+timerhologram: '&c%player% is down, timeleft %time%'
+reviveitem: GOLDEN_APPLE
+healthafterrevive: 10

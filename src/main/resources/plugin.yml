@@ -1,0 +1,6 @@
+name: ArcaneTrials
+version: '${project.version}'
+main: luxielx.arcanetrials.Main
+api-version: 1.19
+authors: [ Luxielx ]
+description: Trial for Arcane Studios
